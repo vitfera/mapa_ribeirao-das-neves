@@ -6,5 +6,6 @@ return [
         'AdminLoginAsUser' => [ 'namespace' => 'AdminLoginAsUser' ],
         'RecreatePCacheOnLogin' => [ 'namespace' => 'RecreatePCacheOnLogin' ],
         'Accessibility' => [ 'namespace' => 'Accessibility' ],
+        'Analytics' => [ 'namespace' => 'Analytics' ],
     ]
 ];
