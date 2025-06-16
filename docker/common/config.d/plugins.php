@@ -8,5 +8,6 @@ return [
         'Accessibility' => [ 'namespace' => 'Accessibility' ],
         'Analytics' => [ 'namespace' => 'Analytics' ],
         'SpamDetector' => [ 'namespace' => 'SpamDetector' ],
+        'MapasBlame' => [ 'namespace' => 'MapasBlame' ],
     ]
 ];
