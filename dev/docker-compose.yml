@@ -25,6 +25,7 @@ services:
       - ../plugins/RecreatePCacheOnLogin:/var/www/src/plugins/RecreatePCacheOnLogin
       - ../plugins/Accessibility:/var/www/src/plugins/Accessibility
       - ../plugins/Analytics:/var/www/src/plugins/Analytics
+      - ../plugins/SpamDetector:/var/www/src/plugins/SpamDetector
 
     environment:
       - PENDING_PCACHE_RECREATION_INTERVAL=10

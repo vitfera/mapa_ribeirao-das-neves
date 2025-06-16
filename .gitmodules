@@ -13,3 +13,6 @@
 [submodule "plugins/Analytics"]
 	path = plugins/Analytics
 	url = https://github.com/mapasculturais/plugin-Analytics
+[submodule "plugins/SpamDetector"]
+	path = plugins/SpamDetector
+	url = https://github.com/mapasculturais/plugin-SpamDetector
