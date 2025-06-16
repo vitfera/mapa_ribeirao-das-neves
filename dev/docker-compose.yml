@@ -20,8 +20,8 @@ services:
       - ./config.d:/var/www/config/local.d
 
       # themes and plugins
-      - ../plugins/SamplePlugin:/var/www/src/plugins/SamplePlugin
       - ../plugins/MultipleLocalAuth:/var/www/src/plugins/MultipleLocalAuth
+      - ../plugins/AdminLoginAsUser:/var/www/src/plugins/AdminLoginAsUser
 
     environment:
       - PENDING_PCACHE_RECREATION_INTERVAL=10

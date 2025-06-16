@@ -3,6 +3,6 @@
 return [
     'plugins' => [
         'MultipleLocalAuth' => [ 'namespace' => 'MultipleLocalAuth' ],
-        'SamplePlugin' => ['namespace' => 'SamplePlugin'],
+        'AdminLoginAsUser' => [ 'namespace' => 'AdminLoginAsUser' ],
     ]
 ];
