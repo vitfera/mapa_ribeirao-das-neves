@@ -23,6 +23,7 @@ services:
       - ../plugins/MultipleLocalAuth:/var/www/src/plugins/MultipleLocalAuth
       - ../plugins/AdminLoginAsUser:/var/www/src/plugins/AdminLoginAsUser
       - ../plugins/RecreatePCacheOnLogin:/var/www/src/plugins/RecreatePCacheOnLogin
+      - ../plugins/Accessibility:/var/www/src/plugins/Accessibility
 
     environment:
       - PENDING_PCACHE_RECREATION_INTERVAL=10
