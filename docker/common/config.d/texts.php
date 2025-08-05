@@ -8,6 +8,7 @@ return [
     //"text:home-opportunities.description" => i::__("Cadastre-se, participe de editais e oportunidades e concorra aos benefícios."),
     "text:home-entities.events" => i::__("Você pode pesquisar eventos culturais do município. Como usuário cadastrado, você pode incluir seus eventos na plataforma e divulgá-los gratuitamente."),
     "text:home-entities.agents" => i::__("Neste espaço, estão registrados artistas, gestores e produtores: uma rede de atores culturais envolvidos na cena cultural de Ribeirão das Neves. Você pode cadastrar um ou mais agentes (grupos, mestres de cultura, coletivos, bandas, instituições, empresas, etc)."),
+    "text:home-entities.spaces" => i::__("Procure por espaços culturais incluídos na plataforma, acessando os campos de busca que ajudam na precisão de sua pesquisa. Cadastre também os espaços onde desenvolve suas atividades artísticas e culturais."),
     //"text:home-entities.projects" => i::__("Aqui você encontra leis de fomento, mostras, convocatórias, chamadas públicas e editais criados, além de diversas iniciativas cadastradas pelos usuários da plataforma."),
     //"text:home-feature.description" => i::__("Confira os últimos destaques de cada uma das áreas."),
     "text:home-register.title" => i::__("Faça seu cadastro e colabore com o Mapa da Cultura Nevense!"),
